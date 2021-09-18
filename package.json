@@ -1,0 +1,10 @@
+{
+  "name": "jpostv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maud de Vries <emcoding@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4"
+  }
+}
